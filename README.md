@@ -21,7 +21,7 @@
 
 - Spécifications fonctionnelles
     - Contraintes du projet
-    - Livrables
+    - Livrables (code source, doc, container Docker, déploiement / mise en prod)
     - Architecture logicielle 
     - Maquettes
     - Merise
