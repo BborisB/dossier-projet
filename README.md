@@ -22,14 +22,14 @@
 - Spécifications fonctionnelles
     - Contraintes du projet
     - Livrables (code source, doc, container Docker, déploiement / mise en prod)
-    - Architecture logicielle 
     - Maquettes
-    - Merise
     - Use-case
-    - UML
     - RBAC
 
 - Spécifications techniques
+    - Architecture logicielle
+    - Merise
+    - UML
 
 - Extraits de code
     - Captures d'écran d'interfaces utilisateur
