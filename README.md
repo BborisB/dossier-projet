@@ -1,11 +1,11 @@
 # Dossier projet
 
-- [Introduction](#doc/01-introduction)
+- [Introduction](./doc/01-introduction)
     - Présentation personnelle
     - Objectif du dossier
     - Liste des compétences
 
-- [Présentation de l'entreprise et du service](#doc/02-presentation-entreprise)
+- [Présentation de l'entreprise et du service](./doc/02-presentation-entreprise)
     - Présentation de l'entreprise
     - Présentation du service
 
