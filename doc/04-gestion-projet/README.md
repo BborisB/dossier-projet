@@ -1,1 +1,0 @@
-- 02-outil-projet : Jira, outils de dev, techno utilisées
