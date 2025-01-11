@@ -1,8 +1,7 @@
 # Dossier projet
 
 - [Introduction](./doc/01-introduction)
-    - Présentation personnelle
-    - Objectif du dossier
+    - Introduction du dossier
     - Liste des compétences
 
 - [Présentation de l'entreprise et du service](./doc/02-presentation-entreprise/)
@@ -15,9 +14,8 @@
     - Exigences fonctionnelles 
     
 - [Gestion de projet](./doc/04-gestion-projet/)
-    - Méthodologie du projet
-    - Jira
-    - Planning et suivi 
+    - Planning et suivi
+    
 
 - [Spécifications fonctionnelles](./doc/05-specs-fonctionnelles/)
     - Contraintes du projet
