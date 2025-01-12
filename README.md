@@ -5,8 +5,8 @@
     - [Liste des compétences](/doc/01-introduction/02-competences.md)
 
 - [Présentation de l'entreprise et du service](/doc/02-presentation-entreprise/)
-    - [Présentation de l'entreprise](/doc/02-pres-entreprise-service/entreprise.md)
-    - [Présentation du service](/doc/02-pres-entreprise-service/service.md)
+    - [Présentation de l'entreprise](/doc/02-pres-entreprise-service/01-entreprise.md)
+    - [Présentation du service](/doc/02-pres-entreprise-service/02-service.md)
 
 - [Expression des besoins du projet](/doc/03-besoins-projet/)
     - [Contexte](/doc/03-besoins-projet/01-contexte.md)
