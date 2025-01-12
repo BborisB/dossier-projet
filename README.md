@@ -9,9 +9,11 @@
     - Présentation du service
 
 - [Expression des besoins du projet](./doc/03-besoins-projet/)
-    - Contexte et enjeux
-    - Objectifs
-    - Exigences fonctionnelles 
+    - Contexte
+    - Enjeux
+    - Analyse des besoins
+    - Exigences fonctionnelles
+    - Personnas
     
 - [Gestion de projet](./doc/04-gestion-projet/)
     - Planning et suivi
