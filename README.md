@@ -17,6 +17,7 @@
     
 - [Gestion de projet](/doc/04-gestion-projet/)
     - Planning et suivi
+    - Environnement humain
     
 
 - [Spécifications fonctionnelles](/doc/05-specs-fonctionnelles/)
